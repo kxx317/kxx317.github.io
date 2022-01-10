@@ -1,8 +1,6 @@
 header:
-  - title:      Home
-    url:        /index.html
   - title:      Blogs
-    url:        /home.html
+    url:        /index.html
   - titles:
       # @start locale config
       en      : &EN       Archive

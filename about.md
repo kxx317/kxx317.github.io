@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       About Me
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -25,6 +25,4 @@ titles:
   # @end locale config
 key: page-about
 ---
-
-# BIO
 Hello, my name is Kangxing Xie, or you can call me Ken. I'm a 2nd year computer science student at UNSW and I'm located in Sydey Australia.
