@@ -3,8 +3,8 @@ default:
   highlight_theme: tomorrow-night-eighties
   lang: en
   paths:
-    root: /index.html
-    home: /home.html
+    root: /
+    home: /
     archive:  /archive.html
     rss:  /feed.xml
   mathjax: false

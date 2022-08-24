@@ -60,12 +60,13 @@ article_header:
                   {%- endif -%}
 
                   {%- if _size >= 4 -%}
-                    {%- assign _cell_lg_col = 3 -%}
+                    {%- assign _cell_lg_col = 4 -%}
                   {%- else -%}
                     {%- assign _cell_lg_col = 12 | divided_by: _size -%}
                   {%- endif -%}
 
                   <div class="cell cell--12 cell--md-{{ _cell_md_col }} cell--lg-{{ _cell_lg_col }} ">
+                  <!-- <div class="cell cell--12 cell--md-{{ _cell_md_col }} cell--lg-{{ _cell_lg_col }} "> -->
 
                     <div class="mb-5">
                       <h4>{{ child.title }}</h4>
