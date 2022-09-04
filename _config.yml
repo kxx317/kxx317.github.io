@@ -20,9 +20,9 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://www.kangxingxie.me # the base hostname & protocol for your site e.g. https://www.someone.com
 # baseurl : https://www.kangxingxie.me # does not include hostname
-title   : kangxingxie.me
+title   : Kangxing Xie | 
 description: > # this means to ignore newlines until "Language & timezone"
-  Hello from the other side
+  A personal website for Kangxing Xie
 
 
 ## => Language and Timezone
@@ -39,7 +39,7 @@ author:
   url       : https://www.kangxingxie.me
   avatar    : # path or url of avatar image (square)
   bio       : 2nd year BoS (Computer Science) Student at UNSW Sydney, Australia
-  email     : k.xie2003@outlook.com
+  email     : kangxingxie+website@outlook.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
